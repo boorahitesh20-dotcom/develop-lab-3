@@ -125,7 +125,7 @@ Jenkins job configuration used:
 | Type | Pipeline |
 | Definition | Pipeline script from SCM |
 | SCM | Git |
-| Repository | `https://github.com/axdy02/devops-lab3.git` |
+| Repository | `https://github.com/boorahitesh20-dotcom/develop-lab-3.git` |
 | Branch | `*/main` |
 | Script path | `Jenkinsfile` |
 
