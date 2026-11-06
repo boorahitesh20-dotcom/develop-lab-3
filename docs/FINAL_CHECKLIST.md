@@ -34,7 +34,7 @@ git status --short
 - [ ] Open README, REPORT and EVIDENCE on GitHub and test several image links.
 - [ ] Confirm `elk/logstash/pipeline/logstash.conf` remains present; it is deeper than the supplied `find` listing's limit.
 - [ ] Confirm feature-flag changes and `tests/test_selenium.py` are on `main`.
-- [ ] Submit `https://github.com/axdy02/devops-lab3`, not a localhost URL.
+- [ ] Submit `https://github.com/boorahitesh20-dotcom/develop-lab-3`, not a localhost URL.
 
 Run `python3 scripts/check-submission.py` for file-presence, local-link and tracked-file checks. It does not execute experiments or certify rubric completion.
 
