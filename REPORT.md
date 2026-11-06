@@ -1,8 +1,8 @@
 # Lab 3: Monitoring, Logging & DevSecOps
 
 **Course:** DevOps and Automation Lab  
-**Student:** Ansh Kapoor  
-**Repository:** [axdy02/devops-lab3](https://github.com/axdy02/devops-lab3)  
+**Student:** Hitesh  
+**Repository:** [boorahitesh20-dotcom/devops-lab3](https://github.com/boorahitesh20-dotcom/develop-lab-3.git)  
 **Recorded work:** November 4-5, 2026 (terminal UTC and browser-local timestamps)
 
 [README](README.md) | [Evidence gallery](docs/EVIDENCE.md) | [Commands](commands.txt) | [Final checklist](docs/FINAL_CHECKLIST.md)
