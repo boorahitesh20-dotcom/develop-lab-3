@@ -132,7 +132,7 @@ git branch -M main
 git status --short
 git add .
 git commit -m "DevOps Lab 3 - Monitoring Logging and DevSecOps"
-git remote add origin https://github.com/axdy02/devops-lab3.git
+git remote add origin https://github.com/boorahitesh20-dotcom/develop-lab-3.git
 # Authenticate as the repository owner; commit identity is not authentication.
 # Do not put a token in a remote URL, script or screenshot.
 git push -u origin main
